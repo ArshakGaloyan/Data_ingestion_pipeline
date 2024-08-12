@@ -1,0 +1,9 @@
+# .gitignore
+*.log
+*.tmp
+*.swp
+*.pyc
+*.pyo
+__pycache__/
+*.db
+docker-compose.override.yml
